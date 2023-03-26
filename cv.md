@@ -49,15 +49,15 @@ erat orci et libero. ");
 console.log(longestWord);
 ```
 
-# Education
+# 💼 Education
 * **Berezovskaya SS No.1 named after V. H. Golovko**
     * (9 years - basic education, 2 years - English-Mathematical oriented education)
 * **BSTU**
-    * ITF, ITS (currently)
-# Languages
+    * ITF, ITS (currently)  
+# 📚 Languages
 - Russian
 - Belarusian
 - English
-# English 
+# 📖 English 
 -  School: 11 years 
 -  [EPAM English test result](https://examinator.epam.com/Main/PersonalAssignments): **B2**
