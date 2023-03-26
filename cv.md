@@ -1,9 +1,9 @@
 # Hi 👋 My name is Elizaveta Kozeka
 ![Profile image](https://avatars.githubusercontent.com/u/118848006?v=4)
 # 🤝 Contacts:  
-- [Email](lizakozeka@gmail.com)
-- [VKontakte](https://https://vk.com/arslan_hd)
-- [Telegram](https://t.me/keikenny)
+- [x] [Email](lizakozeka@gmail.com)
+- [x] [VKontakte](https://https://vk.com/arslan_hd)
+- [x] [Telegram](https://t.me/keikenny)
 # 👩 About myself:
 Having started my career as a layout designer in a local newspaper with minimum skills, I became profficient in printing design. My keen interest in printing technologies led me to working as a Prepress and DTP Engineer in the largest printing house in my city, where I continued self-learning, examining the process of creating wine and food labels, magazines and other printed goods.
 
@@ -50,14 +50,14 @@ console.log(longestWord);
 ```
 
 # 💼 Education
-* **Berezovskaya SS No.1 named after V. H. Golovko**
-    * (9 years - basic education, 2 years - English-Mathematical oriented education)
-* **BSTU**
-    * ITF, ITS (currently)  
+* [x] **Berezovskaya SS No.1 named after V. H. Golovko**
+    (9 years - basic education, 2 years - English-Mathematical oriented education)
+* [x] **BSTU**
+    ITF, ITS (currently)  
 # 📚 Languages
-- Russian
-- Belarusian
-- English
+- [x] Russian
+- [x] Belarusian
+- [x] English
 # 📖 English 
--  School: 11 years 
--  [EPAM English test result](https://examinator.epam.com/Main/PersonalAssignments): **B2**
+- [x] School: 11 years 
+- [x] [EPAM English test result](https://examinator.epam.com/Main/PersonalAssignments): **B2**
