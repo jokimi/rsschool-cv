@@ -1,5 +1,5 @@
 # Hi 👋 My name is Elizaveta Kozeka
-![Profile image](https://github.com/jokimi/rsschool-cv/blob/gh-pages/assets/ava.png)
+![Profile image](https://avatars.githubusercontent.com/u/118848006?v=4)
 # 🤝 Contacts:  
 - [Email](lizakozeka@gmail.com)
 - [VKontakte](https://https://vk.com/arslan_hd)
