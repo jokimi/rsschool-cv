@@ -2,7 +2,7 @@
 ![Profile image](https://avatars.githubusercontent.com/u/118848006?v=4)
 # 🤝 Contacts:  
 📩 [Email](lizakozeka@gmail.com)  
-📩 [VKontakte](https://https://vk.com/arslan_hd)  
+📩 [VKontakte](https://https://vk.com/jokimi)  
 📩 [Telegram](https://t.me/keikenny)  
 # 👩 About myself:
 Having started my career as a layout designer in a local newspaper with minimum skills, I became profficient in printing design. My keen interest in printing technologies led me to working as a Prepress and DTP Engineer in the largest printing house in my city, where I continued self-learning, examining the process of creating wine and food labels, magazines and other printed goods.
